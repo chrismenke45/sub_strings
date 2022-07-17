@@ -1,0 +1,1 @@
+This is a fucntion to find if strings are contained within a larger string
